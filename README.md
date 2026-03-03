@@ -244,6 +244,8 @@ This indicates the model is highly sensitive to defect detection but requires ba
 
 Transfer learning was implemented using pretrained ImageNet weights.
 
+![Transfer Learning Graph](images/transfer_learning_graph.png)
+
 Observations:
 
 Faster convergence compared to scratch CNN
