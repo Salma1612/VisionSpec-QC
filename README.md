@@ -224,6 +224,7 @@ Threshold tuning
 1️⃣ Confusion Matrix Analysis
 
 The confusion matrix evaluates the classification performance of the defect detection model on unseen test data.
+![Confusion Matrix](images/confusion_matrix.png)
 
 Key Observations:
 
