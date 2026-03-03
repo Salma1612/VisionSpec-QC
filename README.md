@@ -278,6 +278,8 @@ Peak Validation Accuracy: 92.49%
 
 4️⃣ Output Heatmap Interpretation
 
+![Output Heatmap](images/output_heatmap.png)
+
 Model visualization techniques highlight activated regions in defective images.
 
 Insights:
