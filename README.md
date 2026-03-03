@@ -274,6 +274,8 @@ High learning capability on binary defect classification
 
 Peak Validation Accuracy: 92.49%
 
+![Model Accuracy Graph](images/model_accuracy_graph.png)
+
 4️⃣ Output Heatmap Interpretation
 
 Model visualization techniques highlight activated regions in defective images.
